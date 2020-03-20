@@ -1,2 +1,2 @@
 # pytorch-init
-pytorch practise
+pytorch practice
